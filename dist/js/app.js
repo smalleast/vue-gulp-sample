@@ -1,0 +1,1 @@
+"use strict";function _interopRequireDefault(e){return e&&e.__esModule?e:{default:e}}var _vueMin=require("../../node_modules/vue/dist/vue.min.js"),_vueMin2=_interopRequireDefault(_vueMin),_app=require("./app"),_app2=_interopRequireDefault(_app);_vueMin2.default.config.debug=!0,new _vueMin2.default(_app2.default);
